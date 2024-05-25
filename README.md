@@ -14,7 +14,7 @@ To run the Basic Calculator on your local machine, follow these simple steps:
 
 Clone the Repository:
 Step 1:
-git clone https://github.com/IkrashHaroon/basic-calculator.git
+git clone https://github.com/IkrashHaroon/Basic-Calculator.git
 
 Navigate to the Project Directory:
 Step 2:
