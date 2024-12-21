@@ -1,4 +1,4 @@
-Basic Calculator by Ikrash Haroon using php😎
+Basic Calculator by Ikrash Haroon using php ✌
 Welcome to the Basic Calculator project! This simple yet powerful web-based calculator allows you to perform basic arithmetic operations like addition, subtraction, multiplication, and division. Designed with user-friendliness and efficiency in mind, this calculator is perfect for anyone needing quick and reliable calculations right from their web browser.
 
 Features
