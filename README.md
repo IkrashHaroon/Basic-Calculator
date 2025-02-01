@@ -39,7 +39,7 @@ License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Contact
-For any inquiries or feedback, please reach out to me at ikrashharoon1236@gmail.com.
+For any inquiries or feedback, please reach out to me at ikrashharoon1236@gmail.com
 
 Enjoy using the Basic Calculator! 🚀
 
